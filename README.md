@@ -11,8 +11,7 @@ Im Fachry!, trying to explore **Computer Vision & Deep Learning**.
 - 🚗 Vehicle Counting from Videos  
 - 🤖 Basic of Autonomous Car  
 
-Most of the project probably run on local webcam 
-💡 Always eager to learn and collaborate on **AI & Computer Vision** projects!  
+Most of the project probably run on local webcam or just test it on videos file 💡 
 
 📫 Reach me at: [Your Contact Info or GitHub Profile Link]  
 
