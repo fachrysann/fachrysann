@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**fachrysann/fachrysann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Fachry!, trying to explore **Computer Vision & Deep Learning**.
 
-Here are some ideas to get you started:
+### 🔭 Next Projects I Want to Try:  
+- 📝 Handwritten Text Recognition from A-Z
+- 👁️ OCR (Optical Character Recognition)
+- 🚦 Traffic Sign Detection & Recognition
+- 🏷️ Face Recognition
+- 🛣️ Road Segmentation  
+- 🚗 Vehicle Counting from Videos  
+- 🤖 Basic of Autonomous Car  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of the project probably run on local webcam 
+💡 Always eager to learn and collaborate on **AI & Computer Vision** projects!  
+
+📫 Reach me at: [Your Contact Info or GitHub Profile Link]  
+
