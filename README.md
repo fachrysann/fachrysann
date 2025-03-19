@@ -13,5 +13,3 @@ Im Fachry!, trying to explore **Computer Vision & Deep Learning**.
 
 Most of the project probably run on local webcam or just test it on videos file 💡 
 
-📫 Reach me at: [Your Contact Info or GitHub Profile Link]  
-
