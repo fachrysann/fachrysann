@@ -6,8 +6,8 @@ Im Fachry!, trying to explore **Computer Vision & Deep Learning**.
 - 📝 Handwritten Text Recognition from A-Z  
 - 👁️ OCR (Optical Character Recognition)  
 - 🚦 Traffic Sign Detection & Recognition  
-- ☝️ Finger Counting ([**completed**](https://github.com/yourusername/FingerCounting_OpenCV-DeepLearning))  
-- 🏷️ Emotion Recognition ([**completed**](https://github.com/yourusername/EmotionRecognition_DeepLearning))  
+- ☝️ Finger Counting ([**completed**](https://github.com/fachrysann/FingerCounting_OpenCV-DeepLearning))  
+- 🏷️ Emotion Recognition ([**completed**](https://github.com/fachrysann/EmotionRecognition_DeepLearning))  
 - 🛣️ Road Segmentation  
 - 🚗 Near Real-Time Vehicle Detection from Jakarta’s Traffic CCTVs ([**completed**](https://github.com/fachrysann/Car-Detection))  
 - 🤖 Basic of Autonomous Car  
