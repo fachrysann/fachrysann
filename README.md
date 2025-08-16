@@ -9,7 +9,7 @@ I'm Fachry! Currently exploring the world of **Machine Learning** & **Deep Learn
 | 💬 Indonesian Twitter Sentiment Analysist IndoBERT           | 🔄 Planned   | -                                                                               |
 | ☝️ Finger Count Recognition                                  | ✅ Completed | [GitHub Repo](https://github.com/fachrysann/FingerCounting_OpenCV-DeepLearning) |
 | 🏷️ Emotion Recognition                                       | ✅ Completed | [GitHub Repo](https://github.com/fachrysann/EmotionRecognition_DeepLearning)    |
-| 🛣️ New York Uber Fare Prediction with Interactive Map        | ✅ Complete  | -                                                                               |
+| 🛣️ New York Uber Fare Prediction with Interactive Map        | ✅ Complete  | [GitHub Repo](https://github.com/fachrysann/Uber_fare_prediction          )                                                                     |
 | 🚗 Vehicle Detection from Jakarta CCTVs                      | ✅ Completed | [GitHub Repo](https://github.com/fachrysann/Car-Detection)                      |
 
 > 💡 Most of these projects are tested locally or on video files.
