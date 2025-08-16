@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Fachry! Currently exploring the world of **Computer Vision** & **Deep Learning**.
+I'm Fachry! Currently exploring the world of **Machine Learning** & **Deep Learning**.
 
 | Project Idea                                      | Status      | Notes / Links                                                                 |
 |--------------------------------------------------|-------------|-------------------------------------------------------------------------------|
