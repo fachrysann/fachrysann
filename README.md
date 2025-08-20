@@ -4,7 +4,7 @@ I'm Fachry! Currently exploring the world of **Machine Learning** & **Deep Learn
 
 | Project Idea                                      | Status      | Notes / Links                                                                 |
 |--------------------------------------------------|-------------|-------------------------------------------------------------------------------|
-| 📝 Handwritten Text Recognition (A–Z)                        | 🔄 Planned   | -                                                                               |
+| 📝 Credit Card Fraud Prediction                              | ✅ Completed   | -                                                                               |
 | 👁️ License Plate Recognition with VLM                        | ✅ Completed   | [GitHub Repo](https://github.com/fachrysann/License-Plate-VLM)                |
 | 💬 Indonesian Twitter Sentiment Analysist IndoBERT           | 🔄 Planned   | -                                                                               |
 | 🏷️ Emotion Recognition                                       | ✅ Completed | [GitHub Repo](https://github.com/fachrysann/EmotionRecognition_DeepLearning)    |
